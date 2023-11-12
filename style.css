@@ -1,0 +1,133 @@
+.body {
+    background-color: #1034a6 !important;
+}
+
+#header {
+    background-color: #6cb4ee;
+}
+#flex {
+    box-shadow: 0 0 12px -2px skyblue;
+    left: 0;
+    right: 0;
+    align-items: center;
+    background-color: #6cb4ee;
+    color: skyblue;
+    height: 80px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+#img1 {
+    float: right;
+    float: right;
+    margin: 10px 10px 10px 10px
+}
+#h2 {
+    font-size: 40px;
+    color: white;
+    background-color: #6cb4ee;
+}
+#p1 {
+    font-size: 35px;
+    color: white;
+    text-align: center;
+
+}
+#main1 {
+    background-color: #13274f;
+}
+#quote {
+    font-size: 43px;
+    color: white;
+    padding: 5px 5px 5px 5px;
+    text-align: center;
+    
+}
+#links {
+    color: white;
+}
+#aboutheader {
+    font-size: 40px;
+    color: white;
+    background-color: #0047ab;
+
+
+}
+#abouth2 {
+    font-size: 40px;
+    color: white;
+    background-color: #6cb4ee;
+    text-align: center;
+    margin: 0;
+}
+#aboutimg2 {
+    float: right;
+    margin: 10px 10px 10px 10px;
+}
+#aboutsection {
+    background-color: #1034a6;
+    color: white;
+    font-size: 30px;
+}
+#aboutbody {
+    margin: 0;
+}
+
+/* porfolio page */
+
+
+#portfolioheader {
+    text-align: center;
+    font-size: 35px;
+    background-color: #6cb4ee;
+    color: white;
+}
+
+
+.built {
+    display: block;
+    border: solid;
+    margin: 1em 0 1em 0;
+    background-color: #224c98;
+    color: white;
+}
+.built h2 {
+    text-align: center;
+}
+.built-content {
+    
+    flex-direction: column;
+    
+}
+.built-content img {
+    width: 200px;
+    height: 200px;
+    float: left !important; 
+    border: 3px solid #fff;
+    border-radius: 10px;
+    margin-right: 15px;
+    z-index: 5;
+}
+#contecthearder {
+    text-align: center;
+    font-size: 50px;
+    color: #fff;
+}
+#form {
+    text-align: center;
+    font-size: 40px;
+    color: #fff;
+}
+#name {
+    width: 50%;
+    height: 35px;
+    color: #fff;
+}
+#message {
+    width: 75%;
+    font-size: 20px;
+    color: #fff;
+}
+
+
+   
